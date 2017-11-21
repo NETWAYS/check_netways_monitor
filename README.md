@@ -31,7 +31,7 @@ check_netways_monitor.py -H -C [-p] [-V] [-v] [-h]
   `` -V, --version ``
 + **VERBOSE** increases output verbosity (-v or -vv)  
   `` -v, --verbose ``
-+ **TIMEOUT** seconds before connection times out (defaults to 10)
++ **TIMEOUT** seconds before connection times out (defaults to 10)  
   `` -t, --timeout ``
 + **PORT** SNMP port of the NETWAYS Monitor (defaults to 161)  
   `` -p, --port ``
